@@ -7,22 +7,24 @@
  License: GPLv2 or later
  License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
- Edit all contents of Post and Pages from front end, without going to the admin area.
+ Edit all contents of Posts, Pages and Custom Post Types from front end, without going to the admin area.
 
 == Description ==
 
 WP Quick FrontEnd Editor plugin will allow you to change and save contents of post and pages by using WYSIWYG editor from front end of your site without going to Dashboard for little change.You can format your text as you want.
 You can also add images from wordpress gallery by drag and drop and by using upload button.
 
-**Aims:**
-* save time
-* user friendly interface
-* save as many trips to the backend as possible
-* compatible with any theme
-* light and fast
+<h2>Aims</h2>
+<ul type="square">
+<li> save time</li>
+<li> user friendly interface </li>
+<li> save as many trips to the backend as possible </li>
+<li> compatible with any theme</li>
+<li> light and fast</li>
+<li> AJAX based process </li>
 
 == Installation ==
-1. Go to plugins in your dashboard and select \'add new\'
-2. Search for \'WP Front End Editor\', install and activate it
-3. Now view your posts and pages and edit your content and images
-4. Click save button when over with changes and your post or pages will be updated according to changes
+1. Go to plugins in your dashboard and select \'add new\'.
+2. Search for \'WP Quick FrontEnd Editor\', install and activate it.
+3. Now view your posts and pages and edit your content and images.
+4. Click save button when over with changes and your posts or pages will be updated according to changes.
