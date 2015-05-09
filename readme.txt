@@ -15,16 +15,17 @@ WP Quick FrontEnd Editor plugin will allow you to change and save contents of po
 You can also add images from wordpress gallery by drag and drop and by using upload button.
 
 <h2>Aims</h2>
-<ul type="square">
+<ul>
 <li> save time</li>
 <li> user friendly interface </li>
 <li> save as many trips to the backend as possible </li>
 <li> compatible with any theme</li>
 <li> light and fast</li>
 <li> AJAX based process </li>
+</ul>
 
 == Installation ==
-1. Go to plugins in your dashboard and select \'add new\'.
-2. Search for \'WP Quick FrontEnd Editor\', install and activate it.
+1. Go to plugins in your dashboard and select ADD NEW.
+2. Search for WP Quick FrontEnd Editor install and activate it.
 3. Now view your posts and pages and edit your content and images.
 4. Click save button when over with changes and your posts or pages will be updated according to changes.
