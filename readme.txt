@@ -33,8 +33,11 @@ You can also add images from wordpress gallery by drag and drop and by using upl
 == Screenshots ==
 
 1. Post or Page view before editing.
+
 2. Title Edited with WP Quick FrontEnd Editor and Image is Inserted.
+
 3. Content Formated in editor.
+
 4. Page and Post view after logout.
 
 
