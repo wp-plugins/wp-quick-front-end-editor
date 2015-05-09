@@ -29,3 +29,12 @@ You can also add images from wordpress gallery by drag and drop and by using upl
 2. Search for WP Quick FrontEnd Editor install and activate it.
 3. Now view your posts and pages and edit your content and images.
 4. Click save button when over with changes and your posts or pages will be updated according to changes.
+
+== Screenshots ==
+
+1. Post or Page view before editing.
+2.Title Edited with WP Quick FrontEnd Editor and Image is Inserted.
+3.Content Formated in editor.
+4.Page and Post view after logout.
+
+
