@@ -1,5 +1,5 @@
  === WP Quick FrontEnd Editor === 
- Contributors: Labib Ahmed
+ Contributors: Labibahmed42
  Tags: front end editor,woocommerce, products, product title, product contents, desciption, post title, post contents, page title, visual editor, front editor, wp editor, custom post type, site contents, simple user edit, simple editor, wp content editor, post, update post, contents, edit, edit contents, front edit, simple, posts, pages, page, products,inline, editor, edit-in-place, visual, wysiwyg
  Requires at least: 3.5
  Tested up to: 4.2.1
@@ -14,7 +14,7 @@
 WP Quick FrontEnd Editor plugin will allow you to change and save contents of post and pages by using WYSIWYG editor from front end of your site without going to Dashboard for little change.You can format your text as you want.
 You can also add images from wordpress gallery by drag and drop and by using upload button.
 
-<h2>Aims</h2>
+<h2>Goals</h2>
 <ul>
 <li> save time</li>
 <li> user friendly interface </li>
