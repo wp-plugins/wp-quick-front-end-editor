@@ -34,10 +34,12 @@ You can also add images from wordpress gallery by drag and drop and by using upl
 
 1. Post or Page view before editing.
 
-2. Title Edited with WP Quick FrontEnd Editor and Image is Inserted.
+2.Enable WP Quick Editor by clicking on highlited button
 
-3. Content Formated in editor.
+3. Title Edited with WP Quick FrontEnd Editor and Image is Inserted.
 
-4. Page and Post view after logout.
+4. Content Formated in editor.
+
+5. Page and Post view after logout.
 
 
