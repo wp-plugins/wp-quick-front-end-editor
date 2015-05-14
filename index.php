@@ -6,7 +6,7 @@
 	Plugin URI: http://labibahmed.com
 	Author: Labib Ahmed
 	Author URI: http://labibahmed.com
-	Version: 1.0
+	Version: 1.2.0
 	License: GPL2
 	Text Domain: la-fronteditor
 	*/
