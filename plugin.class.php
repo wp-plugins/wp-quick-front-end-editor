@@ -71,9 +71,6 @@
 		}
 		
 	</style>
-	<button style="position: fixed;top: 1px;left: 35%;z-index: 999000;" class="btn btn-sm btn-default activep"> <i class="fa fa-pencil"></i> Enable WP Quick Front Editor </button>
-	<button style="position: fixed;top: 1px;left: 35%;z-index: 999000;" class="btn btn-sm btn-danger deactive"> <i class="fa fa-shield"></i> Disable WP Quick Front Editor</button>
-
     <div class="btn-toolbar" data-role="editor-toolbar" data-target=".editor">
       <div class="btn-group">
         <a class="btn btn-sm btn-default dropdown-toggle" data-toggle="dropdown" title="Font"><i class="fa fa-font"></i><b class="caret"></b></a>
@@ -81,7 +78,10 @@
           </ul>
         </div>
       <div class="btn-group">
-        <a class="btn btn-sm btn-default dropdown-toggle" data-toggle="dropdown" title="Font Size"><i class="fa fa-text-height"></i>&nbsp;<b class="caret"></b></a>
+        <a class="btn btn-sm btn-default dropdo
+	<button style="position: fixed;top: 1px;left: 35%;z-index: 999000;" class="btn btn-sm btn-default activep"> <i class="fa fa-pencil"></i> Enable WP Quick Front Editor </button>
+	<button style="position: fixed;top: 1px;left: 35%;z-index: 999000;" class="btn btn-sm btn-danger deactive"> <i class="fa fa-shield"></i> Disable WP Quick Front Editor</button>
+wn-toggle" data-toggle="dropdown" title="Font Size"><i class="fa fa-text-height"></i>&nbsp;<b class="caret"></b></a>
           <ul class="dropdown-menu">
           <li><a data-edit="fontSize 5"><font size="5">Huge</font></a></li>
           <li><a data-edit="fontSize 3"><font size="3">Normal</font></a></li>
