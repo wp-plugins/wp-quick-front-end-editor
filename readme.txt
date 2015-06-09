@@ -69,3 +69,22 @@ Rate it.
 
 10. Other useful options.
 
+== Changelog ==
+= 2.0 =
+* Image resize option
+* Easy control for adding and removing image
+* Listing option in editor
+* Quick table generator option
+* Embeding video option
+* New theme for editor
+* Html preview option
+* Html heading option
+* Typography option
+
+= 1.2.0 =
+* Custom control of enabling and disabling editing.
+* Add,remove and change feature image in this version.
+
+= 1.0 =
+* Edit content of post,pages and custom posts.
+
