@@ -14,6 +14,8 @@
 WP Quick FrontEnd Editor plugin will allow you to change and save contents of post and pages by using WYSIWYG editor from frontend of your site without going to Dashboard for little change.You can format your text as you want.
 You can also add images from wordpress gallery by drag and drop and by using upload button.You can add,remove and change featured image.
 
+Rate it.
+
 <h2>Features</h2>
 <ul>
 	<li> Edit content with visula responsive editor </li>
@@ -21,6 +23,11 @@ You can also add images from wordpress gallery by drag and drop and by using upl
 	<li> Responsive  </li>
 	<li> Compatible with all themes  </li>
 	<li> Add images to content from wordpress gallery  </li>
+	<li> Create dynamic tables  </li>
+	<li> Embed video in your content  </li>
+	<li> Add and resize image in content  </li>
+	<li> Listing option available  </li>
+	<li> Generate html of content  </li>
 </ul>
 
 <h2>Goals</h2>
