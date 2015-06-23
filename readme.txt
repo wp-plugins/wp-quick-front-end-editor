@@ -45,9 +45,10 @@ You can also add images from wordpress gallery by drag and drop and by using upl
 
 == Installation ==
 1. Go to plugins in your dashboard and select \'add new\'
-2. Search for \'WP Front End Editor\', install and activate it
-3. Now view your posts and pages and enable plugin by clicking on enable button.Now edit your content and images
-4. Click save button when over with changes and your post or pages will be updated according to changes
+2. Search for \'WP Front End Editor\', install and activate it.
+3. Go to Wordpress Dashboard and save setting from WP Quick Frontend Edior admin menu.
+4. Now view your posts and pages and enable plugin by clicking on enable button.Now edit your content and images
+5. Click save button when over with changes and your post or pages will be updated according to changes
 
 == Screenshots ==
 
