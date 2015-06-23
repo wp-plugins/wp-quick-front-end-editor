@@ -97,7 +97,7 @@
 						<td><strong><?php _e( 'Who Can Edit?', 'la-fronteditor' ); ?></strong> </td>
 						<td>
 							
-							 <input type="checkbox" name="roles" class="admin" value="administrator" >Administrator <br>
+							 <input type="checkbox" name="roles" class="admin" value="administrator" checked>Administrator <br>
 							 <input type="checkbox" name="roles" class="editor" value="editor">Editor <br>
 							 <input type="checkbox" name="roles" class="author" value="author">Author <br>
 							 <input type="checkbox" name="roles" class="contributor" value="contributor">Contributor <br>
