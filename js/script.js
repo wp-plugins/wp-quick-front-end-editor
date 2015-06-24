@@ -3,12 +3,13 @@
     $('#la-title').attr('contenteditable', 'false'); 
     $('.deactive,.hid').hide();
     $('#la-save').hide();
+   
 
     
 
 
     $('.activep').click(function(event) {
-
+ jQuery('.froala-wrapper').next().hide();
 
       // $('.f-basic').addClass('froala-wrapper ');
         $('#edit').editable({
