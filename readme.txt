@@ -60,19 +60,6 @@ You can also add images from wordpress gallery by drag and drop and by using upl
 
 4. Content Formated in editor.
 
-5. Heading Options in editor.
-
-6. Creating quick tables with editor.
-
-7. Adding image and resizing option.
-
-8. Embed videoes.
-
-9. Listing options.
-
-10. Other useful options.
-
-11.Admin Option Page
 
 == Changelog ==
 
