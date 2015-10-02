@@ -20,14 +20,9 @@ You can also add images from wordpress gallery by drag and drop and by using upl
 
 <h3>Features</h3>
 <ul>
-	<li> Edit content with visula responsive editor </li>
-	<li> Add,remove and change feature image </li>
-	<li> Responsive  </li>
+	<li> Edit content with visual responsive editor </li>
 	<li> Compatible with all themes  </li>
 	<li> Add images to content from wordpress gallery  </li>
-	<li> Create dynamic tables  </li>
-	<li> Embed video in your content  </li>
-	<li> Add and resize image in content  </li>
 	<li> Listing option available  </li>
 	<li> Generate html of content  </li>
 </ul>
