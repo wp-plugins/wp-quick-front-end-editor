@@ -3,8 +3,8 @@
  Tags: front end editor,responsive,bootstrap,featured image,quick,woocommerce, products, product title, product contents, desciption, post title, post contents, page title, visual editor, front editor, wp editor, custom post type, site contents, simple user edit, simple editor, wp content editor, post, update post, contents, edit, edit contents, front edit, simple, posts, pages, page, products,inline, editor, edit-in-place, visual, wysiwyg
  Donate link: http://labibahmed.com/get-in-touch/
  Requires at least: 3.5
- Tested up to: 4.2.1
- Stable tag: 5.0
+ Tested up to: 4.3.1
+ Stable tag: 5.1
  License: GPLv2 or later
  License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
