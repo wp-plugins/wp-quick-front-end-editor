@@ -27,7 +27,7 @@ You can also add images from wordpress gallery by drag and drop and by using upl
 	<li> Generate html of content  </li>
 </ul>
 
-<h2>Goals</h2>
+<h3>Goals</h3>
 <ul>
 <li> responsive </li>
 <li> save time</li>
@@ -40,7 +40,7 @@ You can also add images from wordpress gallery by drag and drop and by using upl
 
 <a href="http://codecanyon.net/item/wp-quick-frontend-editor/13077804">Get Pro</a>
 
-<h2>Pro Features</h2>
+<h3>Pro Features</h3>
 <ul>
 <li>Title Does not get removed</li>
 <li>Embed Videos</li>
